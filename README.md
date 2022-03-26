@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renekton442
-- 👀 I’m interested in Software Development, Machine Learning and Data Science
+- 👀 I’m interested in Software Development and Machine Learning/Data Science
 
 <!---
 Renekton442/Renekton442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
